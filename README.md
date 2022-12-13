@@ -1,1 +1,3 @@
 # WebDevBootcamp
+
+google doc -> notes
